@@ -1,0 +1,39 @@
+.instructions {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  padding: 2rem 4rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.lifeline {
+  position: relative;
+  top: -7px;
+}
+
+.lifeline-icon {
+  color: #57b846;
+}
+
+.browser-default {
+  padding-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+img {
+  width: 80%;
+  height: 50%;
+}
+
+@media (max-width: 768px) {
+  .instructions img {
+    width: 100% !important;
+    height: 150% !important;
+  }
+}

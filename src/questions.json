@@ -1,0 +1,258 @@
+[
+  {
+    "question": "What is the largest planet in our solar system?",
+    "optionA": "Earth",
+    "optionB": "Mars",
+    "optionC": "Jupiter",
+    "optionD": "Venus",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "optionA": "Gold",
+    "optionB": "Oxygen",
+    "optionC": "Silver",
+    "optionD": "Hydrogen",
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "optionA": "Tokyo",
+    "optionB": "Seoul",
+    "optionC": "Beijing",
+    "optionD": "Bangkok",
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Who is known as the Father of Geometry?",
+    "optionA": "Aristotle",
+    "optionB": "Euclid",
+    "optionC": "Pythagoras",
+    "optionD": "Archimedes",
+    "answer": "Euclid"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "optionA": "Elephant",
+    "optionB": "Blue Whale",
+    "optionC": "Giraffe",
+    "optionD": "Hippopotamus",
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "optionA": "Sydney",
+    "optionB": "Melbourne",
+    "optionC": "Canberra",
+    "optionD": "Brisbane",
+    "answer": "Canberra"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "optionA": "Charles Dickens",
+    "optionB": "Jane Austen",
+    "optionC": "Mark Twain",
+    "optionD": "F. Scott Fitzgerald",
+    "answer": "Jane Austen"
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "optionA": "Mercury",
+    "optionB": "Venus",
+    "optionC": "Mars",
+    "optionD": "Pluto",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "optionA": "Au",
+    "optionB": "Ag",
+    "optionC": "Fe",
+    "optionD": "Pb",
+    "answer": "Au"
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "optionA": "Leonardo da Vinci",
+    "optionB": "Vincent van Gogh",
+    "optionC": "Pablo Picasso",
+    "optionD": "Michelangelo",
+    "answer": "Michelangelo"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "optionA": "Gold",
+    "optionB": "Iron",
+    "optionC": "Diamond",
+    "optionD": "Platinum",
+    "answer": "Diamond"
+  },
+  {
+    "question": "Who is the author of 'Harry Potter' series?",
+    "optionA": "J.R.R. Tolkien",
+    "optionB": "George R.R. Martin",
+    "optionC": "J.K. Rowling",
+    "optionD": "C.S. Lewis",
+    "answer": "J.K. Rowling"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "optionA": "Tomato",
+    "optionB": "Onion",
+    "optionC": "Avocado",
+    "optionD": "Lettuce",
+    "answer": "Avocado"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "optionA": "K2",
+    "optionB": "Kangchenjunga",
+    "optionC": "Mount Everest",
+    "optionD": "Mount Kilimanjaro",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "optionA": "Mercury",
+    "optionB": "Venus",
+    "optionC": "Mars",
+    "optionD": "Jupiter",
+    "answer": "Mars"
+  },
+  {
+    "question": "What is the capital of France?",
+    "optionA": "London",
+    "optionB": "Rome",
+    "optionC": "Paris",
+    "optionD": "Berlin",
+    "answer": "Paris"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "optionA": "Isaac Newton",
+    "optionB": "Galileo Galilei",
+    "optionC": "Albert Einstein",
+    "optionD": "Nikola Tesla",
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Which organ is responsible for pumping blood throughout the human body?",
+    "optionA": "Liver",
+    "optionB": "Brain",
+    "optionC": "Heart",
+    "optionD": "Lungs",
+    "answer": "Heart"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "optionA": "Atlantic Ocean",
+    "optionB": "Indian Ocean",
+    "optionC": "Arctic Ocean",
+    "optionD": "Pacific Ocean",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "What is the most spoken language in the world?",
+    "optionA": "Spanish",
+    "optionB": "English",
+    "optionC": "Mandarin",
+    "optionD": "Hindi",
+    "answer": "Mandarin"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "optionA": "Thomas Edison",
+    "optionB": "Alexander Graham Bell",
+    "optionC": "Nikola Tesla",
+    "optionD": "Guglielmo Marconi",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the largest continent on Earth?",
+    "optionA": "Africa",
+    "optionB": "Europe",
+    "optionC": "Asia",
+    "optionD": "North America",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the main gas found in the air we breathe?",
+    "optionA": "Oxygen",
+    "optionB": "Carbon Dioxide",
+    "optionC": "Nitrogen",
+    "optionD": "Hydrogen",
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "optionA": "Marie Curie",
+    "optionB": "Albert Einstein",
+    "optionC": "Alexander Fleming",
+    "optionD": "Louis Pasteur",
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "optionA": "O2",
+    "optionB": "H2O",
+    "optionC": "CO2",
+    "optionD": "HO",
+    "answer": "H2O"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "optionA": "Amazon River",
+    "optionB": "Nile River",
+    "optionC": "Yangtze River",
+    "optionD": "Mississippi River",
+    "answer": "Nile River"
+  },
+  {
+    "question": "What is the main ingredient in bread?",
+    "optionA": "Sugar",
+    "optionB": "Butter",
+    "optionC": "Flour",
+    "optionD": "Milk",
+    "answer": "Flour"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "optionA": "Harper Lee",
+    "optionB": "Ernest Hemingway",
+    "optionC": "Mark Twain",
+    "optionD": "F. Scott Fitzgerald",
+    "answer": "Harper Lee"
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "optionA": "Toronto",
+    "optionB": "Vancouver",
+    "optionC": "Montreal",
+    "optionD": "Ottawa",
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "optionA": "Abraham Lincoln",
+    "optionB": "Thomas Jefferson",
+    "optionC": "George Washington",
+    "optionD": "John Adams",
+    "answer": "George Washington"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "optionA": "Monaco",
+    "optionB": "San Marino",
+    "optionC": "Vatican City",
+    "optionD": "Liechtenstein",
+    "answer": "Vatican City"
+  },
+  {
+    "question": "Who is known as the Queen of Pop?",
+    "optionA": "Madonna",
+    "optionB": "Britney Spears",
+    "optionC": "Beyoncé",
+    "optionD": "Lady Gaga",
+    "answer": "Madonna"
+  }
+]
